@@ -1,0 +1,30 @@
+#%
+#Basic commit commands
+#%
+
+    #Initialize a git repository at the current working dir location 
+    #this command is needed per project, not per session 
+    #i.e., once a repo has been created, don't need to re-init in future sessions
+    git init
+
+    #add files from working dir to staging area (-A option is add all in working dir)
+    git add -A :/ 
+
+    #permanently store the changes in the staging area to the local repo
+    git commit -m "[message]"
+
+    #push commited files/changes to the remote repository
+    git push
+    
+    #flow: wd >>> staging >>> local repo >>> remote repo
+    #         add        commit          push
+
+#%
+#Retrieving information
+#%
+
+    #display differences between file in local wd and staged version of the file
+    git diff filename
+
+    #show commit history
+    git log

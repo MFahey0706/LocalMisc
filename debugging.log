@@ -1,0 +1,22 @@
+INFO:root:----- 05/07/17 19:55:31 -----
+DEBUG:root:Added 4 to 6 and got 10
+INFO:root:----- 05/07/17 19:55:36 -----
+DEBUG:root:Added 4 to 6 and got 10
+INFO:root:----- 05/07/17 19:56:16 -----
+DEBUG:root:Added 4 to 6 and got 10
+INFO:root:----- Run of 05/07/17 19:58:10 -----
+DEBUG:root:Added 4 to 6 and got 10
+INFO:root:----- Run of logging_scripts.py at time 05/07/17 19:59:03 -----
+DEBUG:root:Added 4 to 6 and got 10
+INFO:root:----- Run of logging_scripts.py at time 05/07/17 20:00:08 -----
+DEBUG:root:Added 4 to 6 and got 10
+INFO:root:
+
+INFO:root:----- Run of logging_scripts.py at time 05/07/17 20:00:10 -----
+DEBUG:root:Added 4 to 6 and got 10
+INFO:root:
+
+INFO:root:----- Run of logging_scripts.py at time 05/07/17 20:00:56 -----
+DEBUG:root:Added 4 to 6 and got 10
+INFO:root:end record
+
